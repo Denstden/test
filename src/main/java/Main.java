@@ -6,5 +6,6 @@ public class Main {
         System.out.println("ASDFASDFA");
         System.out.println("asdasdsasdad");
         System.out.println(123);
+        System.out.println("123");
     }
 }
